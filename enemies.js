@@ -58,3 +58,7 @@ function animate(){
 }
 
 animate();
+
+//
+//
+// Here begins enemy2
